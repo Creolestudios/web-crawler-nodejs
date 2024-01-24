@@ -42,7 +42,7 @@ BODY RAW JSON
 "keyword":"resignation"
 }
 
-RESPONSE
+EXPECTED RESPONSE
 [
 {
 "SrNo": 1,
